@@ -9,3 +9,13 @@ Adding here summary notes my fellows: some random text with my actual notes of e
 
 very cool indeed...
 
+
+## Table of Contents:
+
+* [week 1](/week1)
+  * [day 1](/week1/day1)
+    1. Item 1.
+    2. Item 2.
+    3. Item 3. 
+  
+
